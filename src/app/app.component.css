@@ -1,0 +1,23 @@
+div {
+  text-align: center;
+}
+#loginForm {
+  /* background-color: rgb(127, 233, 233); */
+  height: 290px;
+  width: 400px;
+  display: inline-block;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  border-radius: 5%;
+}
+button {
+  height: 30px;
+  width: 90px;
+  background-color: transparent;
+  /* background-color:ebf8e1); */
+}
+
+input {
+  border: 0px solid #000000;
+  border-bottom-width: 2px;
+  background-color: transparent;
+}
